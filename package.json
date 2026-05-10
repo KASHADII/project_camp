@@ -1,0 +1,20 @@
+{
+  "name": "project_camp",
+  "version": "1.0.0",
+  "description": "a project managment application for beginners",
+  "keywords": [
+    "api",
+    "creation",
+    "crud"
+  ],
+  "license": "ISC",
+  "author": "aditya sharma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.3"
+  }
+}
